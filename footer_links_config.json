@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Nautilus",
+    "links": [{ "text": "Home", "url": "https://www.3base.org/" }]
+  },
+  {
+    "title": "Developers",
+    "links": [{ "text": "Docs", "url": "https://docs.3base.org/" }]
+  },
+  {
+    "title": "Community",
+    "links": [
+      { "text": "Discord", "url": "https://discord.gg/KgcF5nzytv" },
+      { "text": "Telegram", "url": "https://t.me/org_3base" },
+      { "text": "Twitter", "url": "https://x.com/3baseorg" }
+    ]
+  }
+]
